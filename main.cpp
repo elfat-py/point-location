@@ -46,7 +46,7 @@ int main (){
 
     }else if (xPoint==0 && yPoint==0)
     {
-        cout<<"This point is in the fourth quarter. ";
+        cout<<"This point it is located in the centre. ";
 
     }else{
         cout<<"There must be a problem with the coordinates!";
